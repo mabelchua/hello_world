@@ -1,1 +1,3 @@
 Welcome to RISE
+
+Interesting to learn Git!
